@@ -1,0 +1,17 @@
+For any questions, please email either:
+    dpt50@scarletmail.rutgers.edu
+    nnh29@scarletmail.rutgers.edu
+
+To run the models, type in terminal:
+
+    python3 -u "./Digit_Network.py"
+    python3 -u "./Face_Network.py"
+
+    python3 -u "./Digit_Perceptron.py"
+    python3 -u "./Face_Perceptron.py"
+
+You will need python installed, and you may need to install some libraries:
+
+    pip install  numpy seaborn matplotlib pickle
+
+Thank you so much for your time!
